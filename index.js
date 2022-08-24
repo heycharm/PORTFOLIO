@@ -38,7 +38,7 @@ const NavBtn = document.querySelectorAll('.Btn');
 
 openMenu.addEventListener('click', show);
 closeMenu.addEventListener('click', close);
-// NavBtn.addEventListener('click' , close);
+
 
 // close menu when you click on a menu item 
 NavBtn.forEach(item => {
